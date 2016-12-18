@@ -1,4 +1,4 @@
-# ROADMAP
+# Mappa concettuale
 
 **MozItalians_Localization** è una guida sulla Localizzazione in Italiano dei progetti di Mozilla Italia.
 # Milestone 1
